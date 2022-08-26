@@ -1,9 +1,16 @@
-# How big is this heading?
+# This is heading 1
 > Pessimists sound smart. Optimists make money.
 > ~Nat Friedman
 
-## How big is this heading?
+## This would be heading 2
+**To write in bold, simply CMD+B**
+
+_To italicize, CMD+I_
+
+~~Strikethrough would be "~~__~~"~~
+
+***For All important, it's (***__***)***
 
 ## We can stick to this size heading...
 
-#### How big is this heading?
+#### This is heading 4, you get the idea now.
