@@ -7,10 +7,10 @@
 
 _To italicize, CMD+I_
 
-~~Strikethrough would be "~~__~~"~~
+~~Strikethrough would be `~~__~~`~~
 
-***For All important, it's (***__***)***
+***For All important, it's `***__***`***
 
-## We can stick to this size heading...
+## We can stick to this size heading (h2)...
 
 #### This is heading 4, you get the idea now.
