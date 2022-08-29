@@ -1,6 +1,5 @@
 # This is heading 1
-> Pessimists sound smart. Optimists make money.
-> ~Nat Friedman
+> Pessimists sound smart. Optimists make money. ~Nat Friedman
 
 ## This would be heading 2
 **To write in bold, simply CMD+B**
