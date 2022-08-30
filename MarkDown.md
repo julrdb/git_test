@@ -1,7 +1,9 @@
-# This is heading 1
+# H1...Github famous qoute:
 > Pessimists sound smart. Optimists make money. ~Nat Friedman
 
-## This would be heading 2
+## H2...Github Markdown writing/formatting syntax:
+
+***Note that key shortcuts may not work with IDEs ie VSCode***
 
 Quoting codes aka adding backticks, highlight then `CMD+E`
 
@@ -13,7 +15,7 @@ _To italicize, highlight then_ `CMD+I`
 
 ***For All important, it's*** `***words***`
 
-## We can stick to this size heading (h2)...
+## H2...some more writing/formatting syntax
 
 **Bold and _nestled_ italic** `**insert _words_ here**`
 
@@ -21,14 +23,14 @@ Superscript, insert here <sup>superscript</sup> `<sup>words</sup>`
 
 Subscript, insert here <sub>subscript</sub> `<sub>words</sub>`
 
-#### This is heading 4.
-##### This is heading 5.
-###### heading 6 is the last heading format.
-Light mode `#ffffff`
+#### H4.
+##### H5.
+###### H6. The smallest heading
+Light mode `#ffffff; color outputs only on issues/pull reqs/discussions`
 
-Dark mode `#0d1117`
+Dark mode `#0d1117; color outputs only on issues/pull reqs/discussions`
 
-Turquoise `#30d5c8`
+Turquoise `#30d5c8; color outputs only on issues/pull reqs/discussions`
 
 Here is my [Github](https://github.com/julrdb) page!
 
@@ -39,3 +41,14 @@ If you have the word you wanted to be hyperlinked and url copied, `highlight the
 Wrapping image: `Type ! then Alt text; highlight alt text, CMD+V; will autohyperlink`
 
 ![This is Github's logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+Unordered list `- or *`:
+- Me
+- You 
+-
+
+Ordered list `precede with numbers`:
+1. first
+2. second
+3. third
+
