@@ -21,8 +21,9 @@ Superscript, insert here <sup>superscript</sup> `<sup>words</sup>`
 
 Subscript, insert here <sub>subscript</sub> `<sub>words</sub>`
 
-#### This is heading 4, you get the idea now.
-###### Heading 6 is the last heading format.
+#### This is heading 4.
+##### This is heading 5.
+###### heading 6 is the last heading format.
 Light mode `#ffffff`
 
 Dark mode `#0d1117`
