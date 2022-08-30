@@ -28,3 +28,6 @@ Light mode `#ffffff`
 Dark mode `#0d1117`
 
 Turquoise `#30d5c8`
+
+Here is my [Github](https://github.com/julrdb) page!
+For linking use `CMD+K`
