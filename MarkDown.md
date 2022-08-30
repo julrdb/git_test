@@ -35,6 +35,6 @@ For linking use `CMD+K, will create a blank []()`
 
 If you have the word you wanted to be hyperlinked and url copied, `highlight the word then CMD+V`
 
-Wrapping image: 
+Wrapping image: `Type ! then Alt text; highlight alt text, CMD+V`
 
-![This is Turquoise from Canva](https://www.canva.com/colors/color-meanings/turquoise/)
+![This is Github's logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
