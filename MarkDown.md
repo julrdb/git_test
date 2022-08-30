@@ -45,7 +45,7 @@ Wrapping image: `Type ! then Alt text; highlight alt text, CMD+V; will autohyper
 Unordered list `- or *`:
 - Me
 - You 
--
+- Them
 
 Ordered list `precede with numbers`:
 1. first
