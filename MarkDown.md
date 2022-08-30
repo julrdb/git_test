@@ -26,3 +26,5 @@ Subscript, insert here <sub>subscript</sub> `<sub>words</sub>`
 Light mode `#ffffff`
 
 Dark mode `#0d1117`
+
+Turquoise `#30d5c8`
