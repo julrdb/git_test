@@ -52,3 +52,18 @@ Ordered list `precede with numbers`:
 2. second
 3. third
 
+Nestled list `indent with space or tab, insert - or *`:
+* Main
+  * 1st nestled
+    * 2nd nestled
+      * 3rd nestled
+
+Task list `- followed by [ ]; put x if task complete`:
+- [ ] Do this first
+- [ ] Do this second 
+- [x] Do this third
+  * If task starts with `()`, need to esc it with `\`: 
+    - [ ] \(The context here) This task
+
+
+
