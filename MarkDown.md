@@ -32,11 +32,11 @@ Dark mode `#0d1117; color outputs only on issues/pull reqs/discussions`
 
 Turquoise `#30d5c8; color outputs only on issues/pull reqs/discussions`
 
-Here is my [Github](https://github.com/julrdb) page!
-
 For linking use `CMD+K, will create a blank []()`
 
-If you have the word you wanted to be hyperlinked and url copied, `highlight the word then CMD+V`
+Here is my [Github](https://github.com/julrdb) page!
+
+If you have the link text you wanted to be hyperlinked and url is copied, `highlight the word then CMD+V`
 
 Wrapping image: `Type ! then Alt text; highlight alt text, CMD+V; will autohyperlink`
 
@@ -68,4 +68,6 @@ Task list `- followed by [ ]; put x if task complete`:
 Tagging people & teams `use @ plus the username/team name`:
 * Is this okay to push @github/support?
 
+Emojis `:EMOJICODE:` [emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md):
 
+@octocat let me tell you it is 👍 to 🥳 in 🌆!
