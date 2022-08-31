@@ -66,6 +66,6 @@ Task list `- followed by [ ]; put x if task complete`:
     - [ ] \(The context here) This task
 
 Tagging people & teams `use @ plus the username/team name`:
-_Is this okay to push_ @github/support ?
+* Is this okay to push @github/support?
 
 
