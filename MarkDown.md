@@ -71,3 +71,5 @@ Tagging people & teams `use @ plus the username/team name`:
 Emojis `:EMOJICODE:` [emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md):
 
 @octocat let me tell you it is 👍 to 🥳 in 🌆!
+
+Footnotes
