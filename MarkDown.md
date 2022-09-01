@@ -90,6 +90,8 @@ Here is my [Github](https://github.com/julrdb) page!
 ###### Footnotes:
 
 This is a sample footnote [^1]
+
 Here's another sample footnote [^check]
+
 [^1]: Well this was a test
 [^check]: Footnote references are ordered by code line numbers, regardless of what they are named to.
