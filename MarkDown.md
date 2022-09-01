@@ -47,33 +47,40 @@ Dark mode `#0d1117; color outputs only on issues/pull reqs/discussions`
 
 Turquoise `#30d5c8; color outputs only on issues/pull reqs/discussions`
 
-###### For linking, use `CMD+K, will create a blank []()`:
+###### For linking, use:
+`CMD+K, will create a blank []()`:
 
 Here is my [Github](https://github.com/julrdb) page!
 
-###### If you have the url copied, `highlight the word then CMD+V`
+###### If you have the url copied:
+`highlight the word then CMD+V`
 
-###### Wrapping image: `Type ! then [Alt text]; highlight alt text, CMD+V will autohyperlink`:
+###### Wrapping image: 
+`Type ! then [Alt text]; highlight alt text, CMD+V will autohyperlink`:
 
 ![This is Github's logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
-###### Unordered list `- or *`:
+###### Unordered list:
+`- or *`:
 - Me
 - You 
 - Them
 
-###### Ordered list `precede with numbers`:
+###### Ordered list:
+`precede with numbers`:
 1. first
 2. second
 3. third
 
-###### Nestled list `indent with space or tab, insert - or *`:
+###### Nestled list:
+`indent with space or tab, insert - or *`:
 * Main
   * 1st nestled
     * 2nd nestled
       * 3rd nestled
 
-###### Task list `- followed by [ ]; put x if task complete`:
+###### Task list:
+`- followed by [ ]; put x if task complete`:
 - [ ] Do this first
 - [ ] Do this second 
 - [x] Do this third
@@ -83,7 +90,8 @@ Here is my [Github](https://github.com/julrdb) page!
 ###### Tagging people & teams `use @ plus the username/team name`:
 * Is this okay to push @github/support?
 
-###### Emojis `:EMOJICODE:` [emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md):
+###### Emojis `:EMOJICODE:` 
+[emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md):
 
 @octocat let me tell you it is 👍 to 🥳 in 🌆!
 
