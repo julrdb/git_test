@@ -3,13 +3,21 @@
 
 ## H2...Github Markdown writing/formatting syntax:
 
-***Note that key shortcuts may not work with IDEs ie VSCode***
+***Note that GH MD writing key shortcuts may NOT work with IDEs ie VSCode***
 
-Quoting codes aka adding backticks, highlight then `CMD+E`
+Quoting codes aka adding backticks, `highlight then CMD+E`
 
-**To write in bold, highlight then** `CMD+B`
+Quoting blocks of code, `add triple backticks top & bottom of the block`:
+* Git basic commands:
+```
+  git status
+  git log
+  git pull
+```
 
-_To italicize, highlight then_ `CMD+I`
+**To write in bold, `highlight then CMD+B`**
+
+_To italicize, `highlight then_ CMD+I`_
 
 ~~Strikethrough would be~~ `~~words~~`
 
@@ -26,6 +34,7 @@ Subscript, insert here <sub>subscript</sub> `<sub>words</sub>`
 #### H4.
 ##### H5.
 ###### H6. The smallest heading
+
 Light mode `#ffffff; color outputs only on issues/pull reqs/discussions`
 
 Dark mode `#0d1117; color outputs only on issues/pull reqs/discussions`
