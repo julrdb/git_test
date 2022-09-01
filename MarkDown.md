@@ -5,21 +5,25 @@
 
 ***Note that GH MD writing key shortcuts may NOT work with IDEs ie VSCode***
 
-Quoting codes aka adding backticks, `highlight then CMD+E`
+###### Quoting codes aka adding backticks:
+`highlight then CMD+E`
 
-Quoting blocks of code, `add triple backticks top & bottom of the block`:
-* Git basic commands:
+###### Quoting blocks of code:
+`add triple backticks top & bottom of the block`:
 ```
   git status
   git log
   git pull
 ```
 
-**To write in bold, `highlight then CMD+B`**
+###### **To write in bold:** 
+`highlight then CMD+B`
 
-_To italicize, `highlight then_ CMD+I`_
+###### _To italicize:_ 
+`highlight then_ CMD+I`
 
-~~Strikethrough would be~~ `~~words~~`
+###### ~~Strikethrough would be:~~ 
+`~~words~~`
 
 ***For All important, it's*** `***words***`
 
