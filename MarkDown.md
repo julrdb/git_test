@@ -1,6 +1,10 @@
 # H1...Github famous qoute:
 > Pessimists sound smart. Optimists make money. ~Nat Friedman
 
+#### H4.
+##### H5.
+###### H6. The smallest heading
+
 ## H2...Github Markdown writing/formatting syntax:
 
 ***Note that GH MD writing key shortcuts may NOT work with IDEs ie VSCode***
@@ -36,10 +40,6 @@
 
 ###### Subscript: it's below <sub>subscript</sub> 
 `<sub>words</sub>`
-
-#### H4.
-##### H5.
-###### H6. The smallest heading
 
 Light mode `#ffffff; color outputs only on issues/pull reqs/discussions`
 
@@ -105,8 +105,19 @@ Here's another sample footnote [^check]
 [^check]: Footnote references are ordered by code line numbers, regardless of what they are named to.
 
 ###### Expandable content (disclosure widget)
-`<details>
-<summary>This is the label for the toggle</summary>
+```
+<details>
+<summary>The toggle</summary>
 * Test 1
 * Test 2
-</details>`
+</details>
+```
+<details>
+<summary>Code blocks sample:</summary>
+  <p>
+  ###### Wrap in < p > tags for varying info types.  
+  ```python
+  print("Python code block print test")
+  ```
+  </p>
+</details>
