@@ -115,9 +115,11 @@ Here's another sample footnote [^check]
 <details>
 <summary>Code blocks sample:</summary>
   <p>
+    
   ###### Wrap in < p > tags for varying info types.  
   ```python
   print("Python code block print test")
   ```
+ 
   </p>
 </details>
