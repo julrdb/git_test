@@ -103,3 +103,10 @@ Here's another sample footnote [^check]
 
 [^1]: Well this was a test
 [^check]: Footnote references are ordered by code line numbers, regardless of what they are named to.
+
+###### Expandable content (disclosure widget)
+`<details>
+<summary>This is the label for the toggle</summary>
+* Test 1
+* Test 2
+</details>`
