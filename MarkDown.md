@@ -105,13 +105,16 @@ Here's another sample footnote [^check]
 [^check]: Footnote references are ordered by code line numbers, regardless of what they are named to.
 
 ###### Expandable content (disclosure widget)
-```
+```markdown
 <details>
 <summary>The toggle</summary>
+  
 * Test 1
 * Test 2
+  
 </details>
 ```
+
 <details>
 <summary>Code blocks sample:</summary>
   <p>
@@ -123,3 +126,5 @@ Here's another sample footnote [^check]
  
   </p>
 </details>
+
+***Remember that blank lines are needed before/after a section of markdown that is within an html tag, otherwise the markdown won't work***
