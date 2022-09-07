@@ -58,7 +58,7 @@ Here is my [Github](https://github.com/julrdb) page!
 ###### Wrapping image: 
 `Type ! then [Alt text]; highlight alt text, CMD+V will autohyperlink`:
 
-![This is Github's logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Github logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ###### Unordered list:
 `- or *`:
