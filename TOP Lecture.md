@@ -1,6 +1,6 @@
 # The Odin Project
 
-### Git Basics
+### Git Basics <sub>[Guide here](https://www.theodinproject.com/lessons/foundations-git-basics)</sub>
 <details>
 <summary>The setup to create new repo on GH:</summary>
   
@@ -23,6 +23,7 @@
   2. `touch test_local.txt`
   3. `git add test_local.txt`; this adds to staging area in Git.
   4. `git commit -m "Your commit message here"`
+  5. `git push` (if you're only working on main, no branch) or `git push origin main` (to be explicit)
   ```
 </details>
 
