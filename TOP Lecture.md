@@ -1,18 +1,31 @@
 # The Odin Project
 
+
 ### Git setup
+<details>
+<summary>Setup Procedures</summary>
+<p>
+  
+  #### To configure Git:
+  
+  ```shell
+  1. git config --global user.name "Your Name"
+  2. git config --global user.email "yourname@example.com"
+  ```
+  #### Changing default repo branch from `master` to `main`:
+  
+  ```shell
+  git config --global init.defaultBranch main
+  ```
+  #### For MacOS only; to ignore .DS_store files:
+  
+  ```shell
+  1. echo .DS_Store >> ~/.gitignore_global
+  2. git config --global core.excludesfile ~/.gitignore_global
+  ```
+</p>    
+</details>
 
-#### To configure Git:
-1. `git config --global user.name "Your Name"`
-
-2. `git config --global user.email "yourname@example.com"`
-
-#### Changing default repo branch from `master` to `main`:
-* `git config --global init.defaultBranch main`
-
-#### For MacOS only; to ignore .DS_store files:
-1. `echo .DS_Store >> ~/.gitignore_global`
-2. `git config --global core.excludesfile ~/.gitignore_global`
 
 ### SSH Key Setup
 * `ssh-keygen -t ed25519 -C <youremail>`
