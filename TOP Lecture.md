@@ -9,7 +9,7 @@
   2. Give it a name; add a `README` file; create repo.
   3. Click `Code`, select `SSH` option, copy to clipboard.
   4. On terminal, `cd ~` (to be on home folder);
-  5. `mkdir` create a repo folder
+  5. `mkdir repos` create a repo folder
   6. `cd repos/`
   7. `git clone git@github.com:julrdb/git_test.git`
   ```
@@ -34,6 +34,6 @@
   1. On GH, don't forget to `Commit changes` on the file being edited.
   2. On terminal, `cd repos/git_test/`
   3. `git pull`
-  4. Enter passphrase is you have one
+  4. Enter passphrase if you have one
   ```
 </details>
