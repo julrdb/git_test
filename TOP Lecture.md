@@ -3,7 +3,7 @@
 
 ### Git setup
 <details>
-<summary>Setup Procedures</summary>
+<summary>Setup Procedures:</summary>
 <p>
   
   #### To configure Git:
@@ -28,10 +28,22 @@
 
 
 ### SSH Key Setup
-* `ssh-keygen -t ed25519 -C <youremail>`
-
-#### To display your ssh key to copy onto GH:
-* `cat ~/.ssh/id_ed25519.pub`
+<details>
+<summary>Procedure:</summary>
+<p>
+  
+  #### To generate ssh key:
+  
+  ```shell
+  ssh-keygen -t ed25519 -C <youremail>
+  ```
+  #### To display your ssh key to copy onto GH:
+  
+  ```shell
+  cat ~/.ssh/id_ed25519.pub
+  ```
+</p>
+</details>
 
 ### Git Basics <sub>[Guide here](https://www.theodinproject.com/lessons/foundations-git-basics)</sub>
 <details>
