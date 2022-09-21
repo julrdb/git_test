@@ -1,6 +1,8 @@
 # The Odin Project
 
 
+## GIT & SSH
+
 ### Git setup
 <details>
 <summary>Setup Procedures:</summary>
@@ -80,5 +82,18 @@
   2. On terminal, `cd repos/git_test/`
   3. `git pull`
   4. Enter passphrase if you have one
+  ```
+</details>
+
+
+## HTML
+
+<details>
+<summary>HTML Elements:</summary>
+
+  ```HTML
+  1. <!DOCTYPE html>
+  2. <html lang="en">
+  3. </html>
   ```
 </details>
