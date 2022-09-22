@@ -41,6 +41,7 @@
   ```
     
   ### Git Basics <sub>[R. click this, open new tab](https://www.theodinproject.com/lessons/foundations-git-basics)</sub>
+  
   <summary>The setup to create new repo on GH:</summary>
   
   ```markdown
