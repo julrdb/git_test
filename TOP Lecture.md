@@ -1,13 +1,13 @@
 # The Odin Project
 
-
-## GIT & SSH
-
-### Git setup
+## Prereq and Git
 <details>
-<summary>Setup Procedures:</summary>
-<p>
-  
+  <summary>GIT & SSH</summary>
+  <p>
+    
+  ### Git setup
+  <summary>Setup Procedures:</summary>
+    
   #### To configure Git:
   
   ```shell
@@ -25,14 +25,9 @@
   1. echo .DS_Store >> ~/.gitignore_global
   2. git config --global core.excludesfile ~/.gitignore_global
   ```
-</p>    
-</details>
-
-
-### SSH Key Setup
-<details>
-<summary>Procedure:</summary>
-<p>
+    
+  ### SSH Key Setup
+  <summary>Procedure:</summary>
   
   #### To generate ssh key:
   
@@ -44,12 +39,9 @@
   ```shell
   cat ~/.ssh/id_ed25519.pub
   ```
-</p>
-</details>
-
-### Git Basics <sub>[Guide here](https://www.theodinproject.com/lessons/foundations-git-basics)</sub>
-<details>
-<summary>The setup to create new repo on GH:</summary>
+    
+  ### Git Basics <sub>[Guide here](https://www.theodinproject.com/lessons/foundations-git-basics)</sub>
+  <summary>The setup to create new repo on GH:</summary>
   
   ```markdown
   1. New Repository
@@ -60,10 +52,7 @@
   6. `cd repos/`
   7. `git clone git@github.com:julrdb/git_test.git`
   ```
-</details>
-
-<details>
-<summary>Create files on local and updating on GH:</summary>
+  <summary>Create files on local and updating on GH:</summary>
   
   ```markdown
   1. On terminal, `cd repos/git_test/` 
@@ -72,10 +61,7 @@
   4. `git commit -m "Your commit message here"`
   5. `git push` (if you're only working on main, no branch) or `git push origin main` (to be explicit)
   ```
-</details>
-
-<details>
-<summary>Create files on GH and updating on local:</summary>
+  <summary>Create files on GH and updating on local:</summary>
   
   ```markdown
   1. On GH, don't forget to `Commit changes` on the file being edited.
@@ -83,7 +69,10 @@
   3. `git pull`
   4. Enter passphrase if you have one
   ```
+  </p>    
 </details>
+
+
 
 
 ## HTML
