@@ -40,7 +40,7 @@
   cat ~/.ssh/id_ed25519.pub
   ```
     
-  ### Git Basics <sub>[Guide here](https://www.theodinproject.com/lessons/foundations-git-basics)</sub>
+  ### Git Basics <sub>[R. click this, open new tab](https://www.theodinproject.com/lessons/foundations-git-basics)</sub>
   <summary>The setup to create new repo on GH:</summary>
   
   ```markdown
@@ -75,7 +75,7 @@
 
 
 
-## HTML
+## HTML Foundations
 
 <details>
 <summary>HTML Elements:</summary>
