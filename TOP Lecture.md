@@ -6,20 +6,19 @@
   <p>
     
   ### Git setup
-  <summary>Setup Procedures:</summary>
     
-  #### To configure Git:
+  ##### To configure Git:
   
   ```shell
   1. git config --global user.name "Your Name"
   2. git config --global user.email "yourname@example.com"
   ```
-  #### Changing default repo branch from `master` to `main`:
+  ##### Changing default repo branch from `master` to `main`:
   
   ```shell
   git config --global init.defaultBranch main
   ```
-  #### For MacOS only; to ignore .DS_store files:
+  ##### For MacOS only; to ignore .DS_store files:
   
   ```shell
   1. echo .DS_Store >> ~/.gitignore_global
@@ -27,14 +26,13 @@
   ```
     
   ### SSH Key Setup
-  <summary>Procedure:</summary>
-  
-  #### To generate ssh key:
+    
+  ##### To generate ssh key:
   
   ```shell
   ssh-keygen -t ed25519 -C <youremail>
   ```
-  #### To display your ssh key to copy onto GH:
+  ##### To display your ssh key to copy onto GH:
   
   ```shell
   cat ~/.ssh/id_ed25519.pub
@@ -85,5 +83,15 @@
   1. <!DOCTYPE html>
   2. <html lang="en">
   3. </html>
+  ```
+  
+  ```mermaid
+  graph TD;
+    A-->B1;
+    A-->B2;
+    B1-->C1;
+    B1-->C2;
+    B2-->C3;
+    B2-->C4;
   ```
 </details>
