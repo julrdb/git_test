@@ -92,7 +92,7 @@
 </body>
 </html>
   ```
-###### Notes:
+###### Breakdown:
   **DOCTYPE** -declaration that tells the browser what version of HTML it should use to render.
   
   **lang** -this attribute sets the language of the text content; primarily used to improve accessibility.
