@@ -93,18 +93,16 @@
 </html>
   ```
 ###### Notes:
-  **DOCTYPE**
+  **DOCTYPE** -declaration that tells the browser what version of HTML it should use to render.
   
-  **lang**
+  **lang** -this attribute sets the language of the text content; primarily used to improve accessibility.
   
-  **<head>**
+  **head** -this is where you'd put meta-information about the webpage.
   
-  **<meta charset>**
+  **meta charset** -proper encoding so that special symbols and chars are displayed correctly.
+
+  **title** -this gives a readable title on the webpages's browser tab.
   
-  **<title>**
-  
-  **<body>**
-  
-  
+  **body** -this is where all the content will go.
   
 </details>
