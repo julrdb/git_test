@@ -73,15 +73,38 @@
 
 
 
-
 ## HTML Foundations
 
 <details>
-<summary>HTML Elements:</summary>
+<summary>HTML Boilerplate (from VSCode, type "!"):</summary>
 
   ```HTML
-  1. <!DOCTYPE html>
-  2. <html lang="en">
-  3. </html>
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
   ```
+###### Notes:
+  **DOCTYPE**
+  
+  **lang**
+  
+  **<head>**
+  
+  **<meta charset>**
+  
+  **<title>**
+  
+  **<body>**
+  
+  
+  
 </details>
