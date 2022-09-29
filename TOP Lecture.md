@@ -84,14 +84,4 @@
   2. <html lang="en">
   3. </html>
   ```
-  
-  ```mermaid
-  graph TD;
-    A-->B1;
-    A-->B2;
-    B1-->C1;
-    B1-->C2;
-    B2-->C3;
-    B2-->C4;
-  ```
 </details>
