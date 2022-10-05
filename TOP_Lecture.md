@@ -86,7 +86,7 @@
 </details>
 
 
-## HTML
+## HTML Foundations
 
 <details>
 <summary>HTML Elements:</summary>
