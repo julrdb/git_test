@@ -66,9 +66,9 @@
 <summary>Creating files on local and updating on GH:</summary>
   
   ```markdown
-  1. On terminal, `cd repos/git_test/` 
+  1. On terminal, `cd folder_name/git_test/` 
   2. `touch test_local.txt`
-  3. `git add test_local.txt`; this adds to staging area in Git.
+  3. `git add test_local.txt`; this adds to staging area in Git. `git add .` adds all files to staging area.
   4. `git commit -m "Your commit message here"`
   5. `git push` (if you're only working on main, no branch) or `git push origin main` (to be explicit)
   ```
