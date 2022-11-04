@@ -49,7 +49,7 @@
 
 ### Git Basics <sub>[Guide here](https://www.theodinproject.com/lessons/foundations-git-basics)</sub>
 <details>
-<summary>The setup to create new repo on GH:</summary>
+<summary>Creating new repo on GH, and cloning locally:</summary>
   
   ```markdown
   1. New Repository
