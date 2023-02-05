@@ -3,6 +3,7 @@
 
 ## GIT & SSH
 
+<!-- ---------------------------------------------------------------------------------------- -->
 ### Git setup
 <details>
 <summary>Setup Procedures:</summary>
@@ -28,7 +29,7 @@
 </p>    
 </details>
 
-
+<!-- ---------------------------------------------------------------------------------------- -->
 ### SSH Key Setup
 <details>
 <summary>Procedure:</summary>
@@ -47,6 +48,7 @@
 </p>
 </details>
 
+<!-- ---------------------------------------------------------------------------------------- -->
 ### Git Basics <sub>[Guide here](https://www.theodinproject.com/lessons/foundations-git-basics)</sub>
 <details>
 <summary>Creating new repo on GH, and cloning locally:</summary>
@@ -85,7 +87,7 @@
   ```
 </details>
 
-
+<!-- ---------------------------------------------------------------------------------------- -->
 ## HTML Foundations
 
 <details>
