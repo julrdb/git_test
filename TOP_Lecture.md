@@ -15,6 +15,7 @@
   1. git config --global user.name "Your Name"
   2. git config --global user.email "yourname@example.com"
   ```
+  <!-- go/inclusivecode Exempt(reason <TODO: free-form>) -->
   #### Changing default repo branch from `master` to `main`:
   
   ```shell
